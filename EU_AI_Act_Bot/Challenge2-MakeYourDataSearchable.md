@@ -23,4 +23,7 @@ Ensure you have the right permissions to access your Azure Storage, specifically
 
 ## Learning Resources
 
-Latest AI Act: [text](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401689)
+[EU AI ACT Pdf](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401689)
+
+Example Queries for EU AI Act index:
+- **
