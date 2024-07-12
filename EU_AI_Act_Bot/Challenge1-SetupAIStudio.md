@@ -3,7 +3,7 @@
 ## Introduction
 Sofia is embarking on a new project to develop a sophisticated Q&A Bot to help navigate the EU AI Act. After evaluating various platforms, Sofia chose Azure AI Studio for its robust capabilities, enterprise-grade security, and collaborative environment. Azure AI Studio will allow Sofia and her team to efficiently organize their work and build customized AI applications.
 
-![Azure AI Studio - Project](images/project-view-aistudio.png)
+![Azure AI Studio - Project](../images/project-view-aistudio.png)
 
 ## Success Criteria
 - **Project Creation**: Sofia verified that the project had been successfully created and appeared in the "Projects" section of Azure AI Studio.
