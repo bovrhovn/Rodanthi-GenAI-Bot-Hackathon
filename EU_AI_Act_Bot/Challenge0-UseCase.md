@@ -2,7 +2,7 @@
 
 ## The Vision of TechInsights - How can you help them
 
-In the vibrant cities of Amsterdam, Lisbon, and Copenhagen, there was a cutting-edge technology firm named "TechInsights." The founder, Maria, was committed to pushing the boundaries of artificial intelligence. With the EU AI Act officially enacted, Maria recognized the imperative of compliance to maintain TechInsights' innovation and integrity.
+In the heart of Athens, there was a cutting-edge technology firm named "TechInsights." The founder, Maria, was dedicated to creating groundbreaking AI systems. When the EU AI Act was officially released, Maria recognized the imperative of compliance to maintain TechInsights' innovation and integrity.
 
 ---
 
@@ -42,12 +42,11 @@ Maria emphasized the importance of a strong governance framework to manage AI sy
 
 ---
 
-### HOW CAN YOU HELP MARIA? 
+## HOW CAN YOU HELP MARIA? 
 ## Meet Sofia - The AI Engineer
 
 ---
 
-## Meet Sofia: The AI Engineer
 
 ### Background
 Sofia is a highly skilled AI engineer at TechInsights, renowned for her expertise in designing and implementing advanced AI systems. With a strong background in machine learning, natural language processing, and system architecture, Sofia has been a key player in numerous successful projects at TechInsights.
@@ -66,3 +65,8 @@ Step into Sofia's shoes and design a comprehensive solution that addresses the f
 
 
 By stepping into Sofia's role, you will help TechInsights create an innovative, compliant, and user-friendly solution that navigates the complexities of the EU AI Act with ease.
+
+
+## Success Criteria
+
+
