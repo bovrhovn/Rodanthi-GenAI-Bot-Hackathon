@@ -1,6 +1,6 @@
-# Azure OpenAI Models Hackathon Labs
+# Azure OpenAI + AI Services Hackathon
 
-Welcome to the Azure OpenAI Models Hackathon! This repository contains a series of hands-on labs designed to help you build various AI solutions using Azure OpenAI models, Azure AI Search, and other Azure services. Each lab focuses on a specific use case, providing detailed instructions and resources to guide you through the development process.
+Welcome to the Azure OpenAI + AI Services Hackathon! This repository contains a series of hands-on labs designed to help you build various AI solutions using Azure OpenAI models, Azure AI Search, and other Azure services. Each lab focuses on a specific use case, providing detailed instructions and resources to guide you through the development process.
 
 ## Labs Overview
 
