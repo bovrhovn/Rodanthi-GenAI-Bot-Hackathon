@@ -69,4 +69,12 @@ By stepping into Sofia's role, you will help TechInsights create an innovative, 
 
 ## Success Criteria
 
+Sofia has worked with Azure AI services since she joined TechInsights and wants to build the solution in the platform. She's thinking that a RAG (Retrieve, Augment, Generate) approach will work best for her scenario.
+
+- **Architecture Overview**: Explain to your coach the architecture of the Bot focusing on the RAG flow 
+
+![RAG](../images/rag-pattern-with-index.png)
+
+[What is RAG](https://learn.microsoft.com/en-us/azure/ai-studio/concepts/retrieval-augmented-generation)
+
 

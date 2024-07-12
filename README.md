@@ -5,19 +5,13 @@ Welcome to the Azure OpenAI Models Hackathon! This repository contains a series 
 ## Labs Overview
 
 ### 1. [EU AI Act Bot](./EU_AI_Act_Bot)
+#### Level 100-200
 Develop a Q&A Bot to help your team navigate and comply with the EU AI Act. This lab utilizes Azure OpenAI models and Azure AI Search to provide quick and accurate information about the legislation.
 
-### 2. [Retrieval-Augmented Generation (RAG) Bot](./RAG_Bot)
-Learn how to create a RAG chatbot that combines retrieval-based and generation-based approaches to provide detailed and contextually relevant responses from your own data sources.
-
-### 3. [Multimodal AI Bot](./Multimodal_AI_Bot)
+### 2. [Multimodal AI Bot](./Multimodal_Bot)
+#### Level 200-300
 Explore the development of a multimodal AI bot that can handle and process both text and image inputs, delivering rich and informative responses using Azure OpenAI and other Azure services.
 
-### 4. [Custom Document Search Bot](./Custom_Document_Search_Bot)
-Build a bot that can search through and retrieve information from custom document datasets, leveraging the power of Azure AI Search and OpenAI models for efficient information retrieval.
-
-### 5. [AI-Powered Knowledge Base Bot](./Knowledge_Base_Bot)
-Create a knowledge base bot that uses Azure OpenAI and AI Search to provide accurate and contextually relevant answers to user queries based on a pre-defined knowledge base.
 
 ## How to Get Started
 
@@ -39,10 +33,7 @@ Create a knowledge base bot that uses Azure OpenAI and AI Search to provide accu
 ## Labs List and Links
 
 - **[EU AI Act Bot](./EU_AI_Act_Bot)**
-- **[Retrieval-Augmented Generation (RAG) Bot](./RAG_Bot)**
-- **[Multimodal AI Bot](./Multimodal_AI_Bot)**
-- **[Custom Document Search Bot](./Custom_Document_Search_Bot)**
-- **[AI-Powered Knowledge Base Bot](./Knowledge_Base_Bot)**
+- **[Multimodal AI Bot](./Multimodal_Bot)**
 
 ## Contribution and Feedback
 
