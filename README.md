@@ -1,34 +1,37 @@
 # Azure OpenAI + AI Services Hackathon
 
-Welcome to the Azure OpenAI + AI Services Hackathon! This repository contains a series of hands-on labs designed to help you build various AI solutions using Azure OpenAI models, Azure AI Search, and other Azure services. Each lab focuses on a specific use case, providing detailed instructions and resources to guide you through the development process.
+![Azure OpenAI + AI Services Hackathon](images/banner.webps)
 
-## Labs Overview
+## Overview
+The labs in this hackathon aim to equip participants with the knowledge and skills needed to develop advanced AI solutions using Azure OpenAI models and other Azure services. Each lab focuses on specific real-world use cases, guiding participants through the end-to-end development process.
+
+## Labs
 
 ### 1. [EU AI Act Bot](./EU_AI_Act_Bot)
 #### Level 100-200
 Develop a Q&A Bot to help your team navigate and comply with the EU AI Act. This lab utilizes Azure OpenAI models and Azure AI Search to provide quick and accurate information about the legislation.
 
-### 2. [Multimodal AI Bot](./Multimodal_Bot)
-#### Level 200-300
+### 2. [Multimodal AI Bot](./Multimodal_Bot) (under construction)
+#### Level 200-300 
 Explore the development of a multimodal AI bot that can handle and process both text and image inputs, delivering rich and informative responses using Azure OpenAI and other Azure services.
+Focus on PS, FSI, Gaming use casess
 
 
-## How to Get Started
+## Learning Objectives
 
-1. **Clone the Repository:**
-   ```sh
-   git clone https://github.com/yourusername/azure-openai-hackathon-labs.git
-   cd azure-openai-hackathon-labs
-   ```
+- **Azure OpenAI Integration**: Learn how to integrate Azure OpenAI models to create a powerful Q&A bot.
+- **Azure AI Search Utilization**: Discover how to use Azure AI Search to fetch and retrieve relevant information efficiently.
+- **Bot Deployment**: Learn to deploy the bot on different platforms such as web, mobile, and messaging applications to maximize accessibility and user reach.
+- **Multimodal Input Handling**: Understand the principles of multimodal AI, capable of processing both text and image inputs.
+- **Advanced Azure OpenAI Capabilities**: Explore the advanced features of Azure OpenAI models in handling diverse data types.
+- **Image and Text Processing**: Learn techniques to process and integrate image data alongside textual information to deliver comprehensive responses.
 
-2. **Navigate to a Lab Folder:**
-   Each lab is contained in its own folder. Navigate to the lab you're interested in to find detailed instructions and resources.
-   ```sh
-   cd <lab-folder>
-   ```
 
-3. **Follow the Instructions:**
-   Each lab folder contains a README file with step-by-step instructions on how to complete the lab. Follow these instructions to set up your environment, understand the concepts, and develop the AI solutions.
+
+# Prerequisites
+
+1. Azure Subscription with OpenAI access
+
 
 ## Labs List and Links
 
@@ -40,5 +43,7 @@ Explore the development of a multimodal AI bot that can handle and process both 
 We welcome contributions and feedback to improve these labs. If you have any suggestions or encounter any issues, please create an issue in this repository or submit a pull request.
 
 Happy hacking!
+
+
 
 
