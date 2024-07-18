@@ -1,6 +1,6 @@
 # Azure OpenAI + AI Services Hackathon
 
-![Azure OpenAI + AI Services Hackathon](images/banner.webps)
+![Azure OpenAI + AI Services Hackathon](images/banner.webp)
 
 ## Overview
 The labs in this hackathon aim to equip participants with the knowledge and skills needed to develop advanced AI solutions using Azure OpenAI models and other Azure services. Each lab focuses on specific real-world use cases, guiding participants through the end-to-end development process.
