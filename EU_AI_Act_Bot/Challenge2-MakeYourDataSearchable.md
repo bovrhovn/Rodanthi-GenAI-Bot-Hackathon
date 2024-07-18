@@ -26,6 +26,8 @@ Ensure you have the right permissions to access your Azure Storage, specifically
 ## Learning Resources
 
 [EU AI ACT Pdf](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401689)
+[Add data in Azure AI Studio](https://learn.microsoft.com/en-us/azure/ai-studio/how-to/data-add)
+[Build and consume vector indexes](https://learn.microsoft.com/en-us/azure/ai-studio/how-to/index-add)
 
 Example Queries for EU AI Act index:
 - **
